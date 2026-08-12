@@ -1,4 +1,4 @@
-***dns-blocklists*** - Mirror of the DNS block list files from https://github.com/hagezi/dns-blocklists
+***dns-blocklists*** -
 
 ---
 
