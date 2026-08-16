@@ -1,0 +1,1 @@
+Unified hosts = (adware + malware)
